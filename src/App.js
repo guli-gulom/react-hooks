@@ -7,7 +7,6 @@ const form = document.querySelector('form')
 const tbody = document.querySelector('tbody')
  
 
-
 const App = ()=>{
     
     const [spent, setSpent] = useState([
