@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all .5s ease-in;
+}
+.container{
+    max-width: 800px;
+    height: 50vh;
+    margin: 10rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  flex-direction: column;
+  
+}
+h1{
+    font-size: 50px;
+    
+}
+form{
+    max-width: 500px;
+} 
+ table{
+   max-width: 500px;
+    background-color: mediumseagreen;
+  border-collapse: collapse;
+  border-radius: 10px;
+  color: #fff;
+} 
